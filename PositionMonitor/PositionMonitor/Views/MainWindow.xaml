@@ -1,0 +1,16 @@
+﻿<Window
+    x:Class="PositionMonitor.Views.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:prism="http://prismlibrary.com/"
+    prism:ViewModelLocator.AutoWireViewModel="True"
+    Title="{Binding Title, Mode=OneWay}"
+    Width="200"
+    WindowStyle="ToolWindow"
+    ResizeMode="NoResize"
+    Topmost="True"
+    SizeToContent="Height">
+    <Grid>
+        
+    </Grid>
+</Window>

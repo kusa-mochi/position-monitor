@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionMonitor", "PositionMonitor\PositionMonitor.csproj", "{CCAF4379-A864-42FF-BB57-B0B14FF1982A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAF4379-A864-42FF-BB57-B0B14FF1982A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAF4379-A864-42FF-BB57-B0B14FF1982A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAF4379-A864-42FF-BB57-B0B14FF1982A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAF4379-A864-42FF-BB57-B0B14FF1982A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9B7FCD-2689-4BDE-9B2D-C0CD2D73FC7E}
+	EndGlobalSection
+EndGlobal
