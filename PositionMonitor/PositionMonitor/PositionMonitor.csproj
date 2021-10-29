@@ -1,9 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>net5.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
-    <AssemblyName>PositionMonitor</AssemblyName>
+    <AssemblyName>いまどこポインタ</AssemblyName>
+    <StartupObject></StartupObject>
+    <PackageProjectUrl>https://github.com/kusa-mochi/position-monitor</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kusa-mochi/position-monitor.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <NeutralLanguage>ja-JP</NeutralLanguage>
+    <Copyright>もち</Copyright>
+    <Company>もち</Company>
+    <Authors>もち</Authors>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Prism.DryIoc" Version="7.2.0.1422" />
